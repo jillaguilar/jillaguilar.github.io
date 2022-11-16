@@ -2,4 +2,7 @@
 ---
 ## Hello!
 ---
-### ginagawa mu dito?
+# **Hobbies**
+- Reading
+- Listening to Music
+- Playing Valorant 
