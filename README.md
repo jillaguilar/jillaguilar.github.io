@@ -1,4 +1,4 @@
-# **Welcome to jillaguilar's Github Page!**
+# **jillaguilar's Github Page!**
 ---
 ### Hello!
 ---
