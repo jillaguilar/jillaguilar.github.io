@@ -1,8 +1,8 @@
-# Welcome to jillaguilar's Github Page!
+# **Welcome to jillaguilar's Github Page!**
 ---
 ### Hello!
 ---
-## Hobbies
+## **Hobbies**
 - Listening to Music
 - Playing the Guitar/Ukulele
 - Reading
