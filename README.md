@@ -1,6 +1,5 @@
-# **Jill Aguilar's Github Page**
----
-### Hello!
+## **Jill Aguilar's Github Page**
+### Welcome to my site!
 ---
 ## **Hobbies**
 - Playing the Guitar/Ukulele
