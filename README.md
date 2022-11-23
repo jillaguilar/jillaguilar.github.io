@@ -9,6 +9,7 @@
 - Painting
 - Reading
 
+![alt text](https://i.pinimg.com/originals/b5/6b/2a/b56b2a9e5b3bdb5bd984b5d1d7a8c93d.jpg)
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5z2sO42p875p7MVNX4OgNq?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
